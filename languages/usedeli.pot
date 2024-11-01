@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Deli\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-18 10:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.6.2\n"
+"X-Domain: usedeli"
+
+#: views/settings.php:51
+msgid "Activation"
+msgstr ""
+
+#: views/settings.php:99
+msgid "Branding Color"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:32
+msgctxt "Check API"
+msgid "Connected"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:32
+msgctxt "Check API"
+msgid "Disconnected"
+msgstr ""
+
+#: includes/class-usedeli-admin.php:66 views/settings.php:53
+msgid "Checking..."
+msgstr ""
+
+#: views/settings.php:78
+msgid "Customization"
+msgstr ""
+
+#: includes/class-usedeli-admin.php:31 includes/class-usedeli-admin.php:32
+msgid "Deli"
+msgstr ""
+
+#. Name of the plugin
+msgid "Deli - AI Enabled Property Search"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Deli is a chat bot helping consumers/interested home buyers find a home they "
+"are interested in by typing in the criteria they are interested in via "
+"natural language."
+msgstr ""
+
+#: views/settings.php:108
+msgid "Display Name"
+msgstr ""
+
+#: views/settings.php:136
+msgid "Display Rules"
+msgstr ""
+
+#: views/settings.php:140
+msgid "Display Widget on"
+msgstr ""
+
+#: views/settings.php:125
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: views/settings.php:111
+msgid ""
+"Enter a custom display name. Leave this field blank to use display name set "
+"in your Deli dashboard."
+msgstr ""
+
+#: views/settings.php:142
+msgid "Entire Site"
+msgstr ""
+
+#: views/settings.php:143
+msgid "Front Page"
+msgstr ""
+
+#: views/settings.php:130
+msgid ""
+"Give your website visitors an all new search experience. Deli matches dream "
+"home descriptions with precision AI to help your site visitors find property "
+"in seconds."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://chat.usedeli.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://usedeli.com"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:46
+msgid "Invalid requests"
+msgstr ""
+
+#: views/settings.php:82
+msgid "Logo"
+msgstr ""
+
+#: views/settings.php:63
+msgid "MLS ID"
+msgstr ""
+
+#: views/settings.php:60
+msgid ""
+"Obtain your key and whitelist your domain in your <a href=\"https://chat."
+"usedeli.com/\" target=\"_blank\">Deli dashboard</a>."
+msgstr ""
+
+#: views/settings.php:168
+msgid "Pages"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:47
+msgid "Please try again."
+msgstr ""
+
+#: views/settings.php:178
+msgid "Posts"
+msgstr ""
+
+#: views/settings.php:71 views/settings.php:116 views/settings.php:193
+msgid "Save Changes"
+msgstr ""
+
+#: views/settings.php:166
+msgid "Select Pages / Posts"
+msgstr ""
+
+#: includes/class-usedeli-admin.php:93
+msgid "Settings"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:73
+msgid "Settings saved"
+msgstr ""
+
+#: views/settings.php:131
+msgid "Sign Up Now"
+msgstr ""
+
+#: views/settings.php:144
+msgid "Specific Pages or Posts"
+msgstr ""
+
+#: views/settings.php:65
+msgid "Type your MLS ID associated with your MLS membership."
+msgstr ""
+
+#: views/settings.php:92
+msgid "Upload Image"
+msgstr ""
+
+#. Author of the plugin
+msgid "Usedeli"
+msgstr ""
+
+#: views/settings.php:58
+msgid "Widget key"
+msgstr ""
+
+#: includes/class-usedeli-ajax.php:74
+msgid "Your settings have been saved."
+msgstr ""
